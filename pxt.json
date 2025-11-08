@@ -1,5 +1,6 @@
 {
     "name": "Demers_Raphael_Lab04",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
